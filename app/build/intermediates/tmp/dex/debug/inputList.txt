@@ -1,0 +1,2 @@
+/Users/denys.zelenchuk/android_studio/eHunter/app/build/intermediates/classes/debug
+/Users/denys.zelenchuk/android_studio/eHunter/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-31dbfd7f07cfe4687e3341346009c418475ddb80.jar
